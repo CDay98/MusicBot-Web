@@ -145,8 +145,8 @@
     margin: 0;
     width: 100%;
     position: absolute;
-    /* top: -1000px;
-    opacity: 0; */
+    top: -1000px;
+    opacity: 0;
     transition: all 0.5s ease;
     height: 50vh;
     z-index: -1;
@@ -194,8 +194,9 @@
     justify-content: center;
     align-items: center;
     width: 80%;
-    height: 80px;
-    margin: 0;
+    height: 60px;
+    margin: auto;
+    
   }
 
   #mobile-menu {
